@@ -30,6 +30,7 @@ body {
 
 .Inner {
     width: 1050px;
+    position: relative;
     margin-left: auto;
     margin-right: auto;
 }
@@ -38,7 +39,6 @@ body {
     background-image: url('images/keyart.jpg');
     background-position: top center;
     background-repeat: no-repeat;
-    width: 100%;
     height: 676px;
     background-color: #090911;
 }
