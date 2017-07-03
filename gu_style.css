@@ -1,16 +1,16 @@
 @font-face {
-	font-family: Radiance;
-	src: url(fonts/radiance.ttf);
+    font-family: Radiance;
+    src: url(fonts/radiance.ttf);
 }
 
 @font-face {
-	font-family: Radiance-Bold;
-	src: url(fonts/radiance-bold.ttf);
+    font-family: Radiance-Bold;
+    src: url(fonts/radiance-bold.ttf);
 }
 
 @font-face {
-	font-family: Radiance-Semibold;
-	src: url(fonts/radiance-semibold.ttf);
+    font-family: Radiance-Semibold;
+    src: url(fonts/radiance-semibold.ttf);
 }
 
 html,
@@ -38,6 +38,7 @@ body {
     background-image: url('images/keyart.jpg');
     background-position: top center;
     background-repeat: no-repeat;
+    width: 100%;
     height: 676px;
     background-color: #090911;
 }
